@@ -37,6 +37,7 @@ This project analyzes retail sales data to identify key drivers of profitability
 ## 📈 Dashboard Preview
 
 ### Overall Dashboard
+These dashboards provide a clear view of sales trends, regional performance, and profitability drivers.
 ![Dashboard](screenshots/dashboard_overview.png)
 
 ### Category Analysis

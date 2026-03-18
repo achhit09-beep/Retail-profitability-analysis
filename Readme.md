@@ -35,7 +35,19 @@ This project analyzes retail sales data to identify key drivers of profitability
 ---
 
 ## 📈 Dashboard Preview
-(Add screenshots here after upload)
+
+### Overall Dashboard
+![Dashboard](screenshots/dashboard_overview.png)
+
+### Category Analysis
+![Category](screenshots/category_analysis.png)
+
+### Region Analysis
+![Region](screenshots/region_analysis.png)
+
+### Customer Analysis
+![Customer](screenshots/customer_analysis.png)
+
 
 ---
 
